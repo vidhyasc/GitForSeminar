@@ -1,1 +1,4 @@
 The file just created
+
+*******************************
+After the first commit, I have made some changes
